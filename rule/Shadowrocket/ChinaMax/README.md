@@ -21,18 +21,18 @@
 
 ## 规则统计
 
-最后更新时间：2025-11-22 02:09:56
+最后更新时间：2025-12-06 02:10:00
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 290  | 
 | DOMAIN-KEYWORD | 13  | 
-| DOMAIN-SUFFIX | 117198  | 
+| DOMAIN-SUFFIX | 117350  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 19905  | 
+| IP-CIDR | 20155  | 
 | USER-AGENT | 65  | 
-| TOTAL | 137472  | 
+| TOTAL | 137874  | 
 
 
 ## Shadowrocket 
@@ -387,8 +387,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cstnet6.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng6.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong6.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom6.txt
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/WoLai.list

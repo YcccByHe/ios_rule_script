@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-22 02:08:09
+# UPDATED: 2025-12-06 02:08:11
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32131
+# DOMAIN-SUFFIX: 32219
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # USER-AGENT: 46
-# TOTAL: 32443
+# TOTAL: 32531
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -538,6 +538,8 @@
 .7mmtv.sx
 .7mmtv.tv
 .7tb.cc
+.7tv.app
+.7tv.io
 .8-d.com
 .8008206616.com
 .8111y.top
@@ -891,6 +893,7 @@
 .adelaidebbs.com
 .adelaidenow.com.au
 .adeptt.ac.uk
+.adfox.ru
 .adgoogle.net
 .adguard-dns.com
 .adguard-dns.io
@@ -927,6 +930,7 @@
 .adlib.ac.uk
 .adls.ac.uk
 .admeld.com
+.admetrica.ru
 .admob-cn.com
 .adobe-aemassets-value.com
 .adobe-audience-finder.com
@@ -1069,6 +1073,7 @@
 .adwordsexpress.com
 .adx.promo
 .ae-ad-1.myhuaweicloud.com
+.ae-rus.net
 .ae.hao123.com
 .ae.org
 .aeasyshop.com
@@ -1088,6 +1093,7 @@
 .aerospace-design.com
 .aerospace-training-wales.ac.uk
 .aes.ac.uk
+.aestatic.net
 .aesworkshops.com
 .aex.com
 .af-east-201.myhuaweicloud.com
@@ -1167,6 +1173,7 @@
 .ahvideosexe.com
 .ahxxx.club
 .ai-kan.net
+.ai-sdk.dev
 .ai-wen.net
 .ai.dev
 .ai3sd.ac.uk
@@ -1350,6 +1357,7 @@
 .akinator.com
 .akita-bank.co.jp
 .akow.org
+.akstat.io
 .akthelp.com
 .al-islam.com
 .al-qimmah.net
@@ -4303,6 +4311,7 @@
 .bloomsburyinstitute.ac.uk
 .blowjobit.com
 .blowjobqueens.net
+.blox.com
 .blpcareers.com
 .blpevents.com
 .blpprofessional.com
@@ -5633,6 +5642,7 @@
 .canterburytrust.ac.uk
 .cantonese.asia
 .canva.com
+.canvastatus.com
 .canyu.org
 .cao.im
 .caobian.info
@@ -6819,6 +6829,9 @@
 .comet-study.ac.uk
 .cometotheduckside.com
 .comffvpn.com
+.comfy.org
+.comfyci.org
+.comfyregistry.org
 .comic-mega.me
 .comicbox.xyz
 .comico.tw
@@ -8837,6 +8850,7 @@
 .dyttapis.com
 .dzcdn.net
 .dzen.ru
+.dzeninfra.ru
 .dzze.com
 .e-bay.com
 .e-bay.it
@@ -12136,6 +12150,8 @@
 .gobeatsye.com
 .gobet.cc
 .gobianywhere.com
+.goblocks.com
+.goblox.com
 .gobuildx.net
 .gobuyonlinestore.net
 .gockhuatviet.com
@@ -12209,6 +12225,7 @@
 .goo.gl
 .goo.gle
 .goo.ne.jp
+.gooblox.com
 .good-gay.com
 .good.news
 .gooday.xyz
@@ -12776,6 +12793,8 @@
 .h528.com
 .h5dm.com
 .h5galgame.me
+.habr.com
+.habrastorage.org
 .hace.ac.uk
 .hacg.club
 .hacg.in
@@ -13353,6 +13372,7 @@
 .heyzo.com
 .hf-iphone.com
 .hf.co
+.hf.space
 .hfaes.ac.uk
 .hfals.ac.uk
 .hfma.ac.uk
@@ -14105,6 +14125,7 @@
 .huluteam.com
 .hulutv.com
 .huluusa.com
+.humancoexperience.com
 .humanities-human-rights.ac.uk
 .humanities.ac.uk
 .humanmind.ac.uk
@@ -16386,6 +16407,7 @@
 .kinmen.org.tw
 .kinmen.travel
 .kinokuniya.com
+.kinopoisk-ru.clstorage.net
 .kinopoisk.ru
 .kir.jp
 .kir2kos.net
@@ -17110,6 +17132,7 @@
 .lkl.ac.uk
 .ll82y2ifdd.top
 .llakes.ac.uk
+.llama.com
 .llambed.ac.uk
 .llandrillo.ac.uk
 .llas.ac.uk
@@ -18214,6 +18237,7 @@
 .metacafe.com
 .metacloud.com
 .metacpan.org
+.metacritic.com
 .metacubex.one
 .metadac.ac.uk
 .metafilter.com
@@ -19642,6 +19666,7 @@
 .namgyalmonastery.org
 .namsisi.com
 .namss.ac.uk
+.namu.wiki
 .nan-net.com
 .nanocmos.ac.uk
 .nanonamad.com
@@ -21074,6 +21099,7 @@
 .offshorerenewables.ac.uk
 .offworldindustries.com
 .offworldindustries.net
+.ofiii.com
 .ofile.org
 .ofs.ac.uk
 .ogakikyoritsu.co.jp
@@ -21109,6 +21135,8 @@
 .okinawabank.co.jp
 .okk.tw
 .okkisokuho.com
+.okko.sport
+.okko.tv
 .okpool.me
 .okx-dns.com
 .okx-dns1.com
@@ -21382,6 +21410,7 @@
 .origin.tv
 .originalhulu.com
 .originalindianporn.com
+.originlab.com
 .orithegame.com
 .orkut.com
 .orl.ly
@@ -21521,6 +21550,7 @@
 .oyax.com
 .oyeloca.com
 .oyghan.com
+.oystermercury.top
 .ozchinese.com
 .ozeex.com
 .ozodi.org
@@ -22119,6 +22149,7 @@
 .picpost.com
 .pics.ee
 .pics.vc
+.picsart.com
 .picsee.co
 .picsee.pro
 .pictoa.com
@@ -22291,6 +22322,7 @@
 .playerjs.io
 .playfab.com
 .playfabapi.com
+.playfamily.ru
 .playforceone.com
 .playhearthstone.com
 .playmation.com
@@ -23527,6 +23559,9 @@
 .rbgkew.ac.uk
 .rbgrads.com
 .rbgraduates.com
+.rblx.co
+.rblx.com
+.rblx.org
 .rbmavericks.com
 .rbnainternational.com
 .rbplc.com
@@ -23535,6 +23570,11 @@
 .rbsl.ac.uk
 .rbslondon.ac.uk
 .rbspeakup.com
+.rbx.com
+.rbxcdn.com
+.rbxinfra.net
+.rbxlabs.com
+.rbxtrk.com
 .rc-harwell.ac.uk
 .rca.ac.uk
 .rcahmw.ac.uk
@@ -23959,10 +23999,39 @@
 .rnibvocoll.ac.uk
 .rnn.ac.uk
 .rnngroup.ac.uk
+.ro-blox.com
 .ro89.com
 .road-crew.com
+.roadblocks.com
 .roadshow.hk
+.roblocks.com
+.roblox-api.arkoselabs.com
+.roblox.ca
+.roblox.cc
+.roblox.cl
+.roblox.co.jp
+.roblox.co.uk
+.roblox.com
+.roblox.de
+.roblox.dk
+.roblox.eu
+.roblox.fr
+.roblox.hu
+.roblox.it
+.roblox.jp
+.roblox.kr
+.roblox.mx
+.roblox.net
+.roblox.org
+.roblox.ph
+.roblox.pt
 .roblox.qq.com
+.roblox.sk
+.roblox.tv
+.roblox.uk
+.roblox.us
+.roblox.vn
+.robloxlabs.com
 .robobat.com
 .roboforex.com
 .roboform.com
@@ -24030,6 +24099,8 @@
 .routerboard.com
 .routesintolanguages.ac.uk
 .routledgehandbooks.com
+.rowblocks.com
+.rowblox.com
 .rowett.ac.uk
 .rowleycollege.ac.uk
 .royagcol.ac.uk
@@ -24104,6 +24175,7 @@
 .rstatic.net
 .rt.com
 .rtalabel.org
+.rtbcdn.ru
 .rthk.hk
 .rthk.org.hk
 .rti.org.tw
@@ -24173,6 +24245,7 @@
 .rutracker.org
 .rutrecker.net
 .rutube.ru
+.rutubelist.ru
 .ruvideos.net
 .ruyiseek.com
 .rvc.ac.uk
@@ -24694,6 +24767,7 @@
 .sensualgirls.org
 .sensualmothers.com
 .sensueel.net
+.sentry-cdn.com
 .senzuritv.net
 .sepnet.ac.uk
 .seqing.one
@@ -27034,6 +27108,7 @@
 .telri.ac.uk
 .temenos.ac.uk
 .temetube.xyz
+.temp-mail.org
 .tempusuk.ac.uk
 .temu.com
 .tenacy.com
@@ -28082,6 +28157,7 @@
 .turbobit.net
 .turbogvideos.com
 .turbohide.com
+.turbopages.org
 .turborepo.org
 .turbotax.com
 .turbotwitter.com
@@ -28924,6 +29000,8 @@
 .vaultify.info
 .vaultify.net
 .vaultproject.io
+.vbcdn.com
+.vbcdn.net
 .vbejeyv.shop
 .vbstatic.co
 .vcanedge.com
@@ -29140,7 +29218,9 @@
 .viacom.com
 .viacomcbs.com
 .viacomcbspressexpress.com
+.viber.co
 .viber.com
+.viber.me
 .vica.info
 .vicarious.ac.uk
 .victimsofcommunism.org
@@ -30059,6 +30139,8 @@
 .webtoons.com
 .webtoonscorp.com
 .webtype.com
+.webvisor.com
+.webvisor.org
 .webwarper.net
 .webworkerdaily.com
 .wechatlawsuit.com
@@ -31226,6 +31308,7 @@
 .yaddal.tv
 .yadi.sk
 .yadori.club
+.yads.tech
 .yaeby.info
 .yaeby.pro
 .yahoo-news.com.hk
@@ -31398,6 +31481,7 @@
 .yande.re
 .yandex-bank.net
 .yandex-images.clstorage.net
+.yandex-team.ru
 .yandex.aero
 .yandex.az
 .yandex.by
@@ -31427,11 +31511,13 @@
 .yandex.sx
 .yandex.tj
 .yandex.tm
+.yandex.tr
 .yandex.ua
 .yandex.uz
 .yandexadexchange.net
 .yandexcloud.net
 .yandexcom.net
+.yandexmetrica.com
 .yandexwebcache.org
 .yanghengjun.com
 .yangjianli.com
@@ -31447,6 +31533,7 @@
 .yarnpkg.com
 .yasarang.net
 .yasni.co.uk
+.yastat.net
 .yastatic.net
 .yasukuni.or.jp
 .yatong.info
@@ -31931,6 +32018,7 @@
 .zaobao.com
 .zaobao.com.sg
 .zaobao.sg
+.zaochenbao.com
 .zaozon.com
 .zapper.fi
 .zapto.org
